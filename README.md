@@ -1,6 +1,6 @@
 <!-- 타이틀 부분 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=100:EEFF00,100:a82da8&height=300&section=header&text=Hyun%20Github&fontSize=90&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=300&section=header&text=Hyun%20Github&fontSize=90&fontColor=ffffff"/>
 </div>
 
 <!-- 내용 부분 (Velog & Instagram 배지) -->
