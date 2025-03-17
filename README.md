@@ -8,7 +8,7 @@
   <a href="https://velog.io/@hyun_731" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
   </a>
-  <a href="https://www.instagram.com/sejun_noah08/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/hxun_0731/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
