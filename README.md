@@ -28,7 +28,7 @@
 ### Soved.ac
 
 <div align="center" style="margin-top: 30px;">
-  <a href="https://solved.ac/jbj338033" target="_blank">
+  <a href="https://solved.ac/gilhyun124" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gilhyun124" alt="Solved.ac Profile" />
   </a>
 </div>
