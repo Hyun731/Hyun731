@@ -18,8 +18,8 @@
 <!-- GitHub Stats & Top Languages (한 줄로 정렬) -->
 ### Github Stats
 <div align="center" style="margin-top: 30px; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyun731&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun731&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Language" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyun731&show_icons=true&theme=ambient_gradient&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun731&layout=compact&theme=ambient_gradient&hide_border=true" alt="Most Used Language" />
 </div>
 
 <hr>
