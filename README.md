@@ -8,7 +8,7 @@
 <hr>
 
 <!-- GitHub Stats & Top Languages (한 줄로 정렬) -->
-### Github & Velog
+### Github
 <div align="center" style="margin-top: 30px; display: flex; justify-content:space-between; gap: 30px; flex-wrap: wrap; flex-direction:row;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun731&layout=compact&theme=ambient_gradient&hide_border=true" alt="Most Used Language"/>
 </div>
