@@ -55,8 +55,8 @@
 
 <div align="center" style="margin-top: 30px; display: flex; justify-content:space-between">
   <a href="https://solved.ac/profile/gilhyun124" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gilhyun124" alt="Solved.ac Profile" width="480"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gilhyun124" alt="Solved.ac Profile" width="300"/>
     &nbsp;&nbsp;
-    <img src="http://mazandi.herokuapp.com/api?handle=gilhyun124&theme=dark" width="480"/>
+    <img src="http://mazandi.herokuapp.com/api?handle=gilhyun124&theme=dark" width="300"/>
   </a>
 </div>
