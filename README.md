@@ -51,6 +51,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
+</p>
+
 ## 📚 Soved.ac
 
 <div align="center" style="margin-top: 30px; display: flex; justify-content:space-between">
