@@ -22,7 +22,7 @@
   <a href="https://velog.io/@hyun_731/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" height="50"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.notion.so/Kwon-Gilhyun-1a2cf56e8d478040aac2c3a9392e8a5e?source=copy_link" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="50"/>
   </a>
   <a href="mailto:gilhyun.gwon0731@gmail.com" target="_blank">
