@@ -55,11 +55,3 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
 </p>
-
-## 📚 Soved.ac
-
-<div align="center" style="margin-top: 30px; display: flex; justify-content:space-between">
-  <a href="https://solved.ac/profile/gilhyun124" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gilhyun124" alt="Solved.ac Profile" width="380"/>
-  </a>
-</div>
